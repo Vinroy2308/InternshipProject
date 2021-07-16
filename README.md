@@ -1,2 +1,2 @@
 # InternshipProject
-Event management hosting website using html, css, javascript and php
+Event management and hosting website using html, css, javascript and php
